@@ -30,7 +30,7 @@ class Directory:
 # Test block (run to check)
 if __name__ == "__main__":
     dir = Directory()
-    dir.add_business("Tech Hub Kano", "Tech", "Software solutions")
+    dir.add_business("Tech Hub Kano-updated", "Tech", "Software solutions")
     dir.add_business("MAAUN Cafe", "Food", "Campus coffee shop")
     dir.add_business("Nigerian Books", "Retail", "Local bookstore")
     print("Recent Businesses (LIFO):")

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><title>Business Directory</title></head>
+<body>
+    <h1>Local Business Directory</h1>
+    <p>Total Businesses: {{ total }}</p>
+    <h2>Recent Businesses (LIFO Stack)</h2>
+    <ul>
+    {% for b in recent %}
+        <li>{{ b }}</li>
+    {% endfor %}
+    </ul>
+    <a href="/add">Add New Business</a>
+</body>
+</html>

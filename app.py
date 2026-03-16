@@ -21,6 +21,6 @@ def submit():
         directory.add_business(name, category, description)
         return render_template('confirmation.html', business=directory.businesses[-1])
     return redirect(url_for('add'))
-
+# Global Directory instance for Stack
 if __name__ == '__main__':
     app.run(debug=True)

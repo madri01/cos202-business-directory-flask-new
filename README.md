@@ -13,7 +13,7 @@ This is a local business/startup directory for MAAUN and Nigeria, built with Pyt
 - Add new businesses via form, view all and recent with timestamps.
 
 The app runs in the browser, adds to stack, shows recent (LIFO) and all.
-
+## Tested on MacBook Air - March 16 2026
 ## How to Run
 1. Clone the repo: `git clone https://github.com/madri01/cos202-business-directory-flask-new.git`  
 2. Enter folder: `cd cos202-business-directory-flask-new`  

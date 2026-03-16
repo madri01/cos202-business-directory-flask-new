@@ -33,6 +33,7 @@ if __name__ == "__main__":
     dir.add_business("Tech Hub Kano-updated", "Tech", "Software solutions")
     dir.add_business("MAAUN Cafe", "Food", "Campus coffee shop")
     dir.add_business("Nigerian Books", "Retail", "Local bookstore")
+dir.add_business("MAAUN Library", "Education", "Campus library")
     print("Recent Businesses (LIFO):")
     for b in dir.get_recent_businesses():
         print(b)

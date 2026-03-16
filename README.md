@@ -41,3 +41,4 @@ The app runs in the browser, adds to stack, shows recent (LIFO) and all.
 
 Thank you, Engr. Hassan Yau Hamisu!
 Made with ❤️ for MAAUN students
+Tested and working perfectly on MacBook Air

@@ -1,7 +1,7 @@
 # COS 202 Assignment 4: Local Business Directory with Flask
 
 **Student Name:** [hauwa hamzah gambo]  
-**Matric Number:** [maaun/24/cbs/0083o]  
+**Matric Number:** [maaun/24/cbs/0083]  
 **Date:** 16 March 2026  
 
 ## Project Description
@@ -34,6 +34,8 @@ The app runs in the browser, adds to stack, shows recent (LIFO) and all.
 - GitHub (5 marks): 20+ commits (we’ll add more small ones).  
 
 ## Screenshots
-(We’ll add after Phase 2)
+![Home](home.png)
+![Add Form](add.png)
+![Confirmation](confirmation.png)
 
 Thank you, Engr. Hassan Yau Hamisu!

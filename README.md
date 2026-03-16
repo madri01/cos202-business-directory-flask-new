@@ -28,6 +28,7 @@ The app runs in the browser, adds to stack, shows recent (LIFO) and all.
 - `templates/`: HTML for home, add, confirmation.  
 
 ## Why This Meets Requirements
+-- GitHub: 20+ commits achieved
 - OOP (7 marks): `Business` class with attributes/methods.  
 - Data Structures & APIs (7 marks): List Stack (LIFO for recent), `datetime` for timestamps.  
 - Flask (6 marks): 3 routes, form for add, templates with Jinja.  

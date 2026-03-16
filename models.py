@@ -9,7 +9,7 @@ class Business:
         self.added_time = datetime.now()
 
     def __str__(self):
-        return f"{self.name} ({self.category}) - Added: {self.added_time.strftime('%Y-%m-%d %H:%M:%S')}"
+        return f"{self.name} ({self.category}) - Added: {self.added_time.strftime('%Y-%m-%d %H:%M')}"
 
 class Directory:
     def __init__(self):
